@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663427318990",
+    "project_id": "pendaftaran-86eab",
+    "storage_bucket": "pendaftaran-86eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663427318990:android:e5235999eaa6ea44bebc9f",
+        "android_client_info": {
+          "package_name": "com.example.tugas_metode_penelitian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663427318990-lecf2eris852fdhr0ao85nhm9vj71516.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIhZZebwaAdcYMXclTIugEpZo4PNldWi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663427318990-lecf2eris852fdhr0ao85nhm9vj71516.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
